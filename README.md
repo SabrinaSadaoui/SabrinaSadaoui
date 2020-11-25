@@ -1,5 +1,7 @@
-### Hi there 👋
+### Je suis étudiante actuellement en recherche d'alternance en développement Web ou en tant que Chef de Projet dans le cadre de ma formation d'Ingénierie Web/Media ( Titre RNCP niveau VII ) à l'Institut G4 👋
 
+Vous trouverez ci dessous des sites/applications web déja en ligne sur lesquels j'ai travaillé :
+https://starlingweb.netlify.app/
 <!--
 **SabrinaSadaoui/SabrinaSadaoui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
